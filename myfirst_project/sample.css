@@ -1,0 +1,13 @@
+body{
+   text-align: center;
+}
+ h1{
+   color: red;
+}
+button{
+   padding: 10px;
+   color: lightblue;
+   border-color: green;
+   color: red;
+   border-radius: 10px;
+}
